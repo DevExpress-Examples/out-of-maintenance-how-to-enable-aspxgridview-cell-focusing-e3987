@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [LinkDataItemTemplate.cs](./CS/WebSite/App_Code/LinkDataItemTemplate.cs) (VB: [LinkDataItemTemplate.vb](./VB/WebSite/App_Code/LinkDataItemTemplate.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+<!-- default file list end -->
 # How to enable ASPxGridView cell focusing
 
 
