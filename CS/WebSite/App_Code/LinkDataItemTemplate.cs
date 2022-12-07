@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
-using DevExpress.Web.ASPxGridView;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 using System.Web.UI.WebControls;
 
 public class LinkDataItemTemplate : ITemplate {

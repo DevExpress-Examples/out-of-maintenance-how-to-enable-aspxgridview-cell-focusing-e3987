@@ -4,8 +4,7 @@ Imports System.Collections.Generic
 Imports System.Linq
 Imports System.Web
 Imports System.Web.UI
-Imports DevExpress.Web.ASPxGridView
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 Imports System.Web.UI.WebControls
 
 Public Class LinkDataItemTemplate
